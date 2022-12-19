@@ -1,0 +1,1 @@
+Facilities process [[Municipal Solid Waste (MSW)]] by removing recyclables and shredding the remaining materials into small peices to be burned as fuel  to generate electricity. [[Waste to Energy (WTE)]]

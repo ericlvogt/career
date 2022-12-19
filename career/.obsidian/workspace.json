@@ -8,127 +8,163 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48bcc120e4d0f106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-12-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d93e481224f2abef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waste Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "14b643a4692e4e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewable Energy.md",
+                "file": "inbox/2022-12-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "569025507070ee4d",
+            "id": "a5ac6f0c7d3265cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyro Energy.md",
+                "file": "Waste to Energy (WTE).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1755a64572eeb0c",
+            "id": "276c13172c5f883b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geothermal Energy.md",
+                "file": "Refuse-Derived Fuel (RDF).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99020ac37a5da4b8",
+            "id": "2e9cae03a2d84fea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tidal Energy.md",
+                "file": "Waste to Energy (WTE).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51a6106027f3194f",
+            "id": "50f1e57d43c52a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wind Energy.md",
+                "file": "Incineration (WTE).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "699e85699e878a3b",
+            "id": "5cb23bb2164aa2b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solar Energy.md",
+                "file": "Waste to Energy (WTE).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "892d4577dc38e764",
+            "id": "10f07f81772d24f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewable Resources.md",
+                "file": "Plasma Arc (WTE).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "845d814fd5c2a1d7",
+            "id": "f671fa5e5dfcbb46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewable Resources.md",
+                "file": "inbox/2022-12-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbc9bc01fc99decd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carbon Tax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "855387c3ceb369e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greenhouse Gases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99d805346d2a551e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-12-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "903a266e30294081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refuse-Derived Fuel (RDF).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9729c4ce66333fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Municipal Solid Waste (MSW).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Renewable Energy.md",
+                "file": "inbox/2022-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Renewable Energy.md",
+                "file": "inbox/2022-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Renewable Energy.md"
+                "file": "inbox/2022-12-18.md"
               }
             }
           }
@@ -245,17 +281,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14b643a4692e4e8f",
+  "active": "99d805346d2a551e",
   "lastOpenFiles": [
-    "Hyro Energy.md",
-    "Renewable Energy.md",
-    "Geothermal Energy.md",
-    "Tidal Energy.md",
-    "Wind Energy.md",
-    "Solar Energy.md",
-    "Renewable Resources.md",
-    "The World Bank.md",
-    "Waste Management.md",
-    "Upstream.md"
+    "Anaerobic Digestion.md",
+    "Climate Change.md",
+    "Greenhouse Gases.md",
+    "Carbon Tax.md",
+    "inbox/2022-12-18.md",
+    "Waste to Energy (WTE).md",
+    "Plasma Arc (WTE).md",
+    "Gasification.md",
+    "Incineration (WTE).md",
+    "Refuse-Derived Fuel (RDF).md"
   ]
 }

@@ -1,0 +1,1 @@
+Use microorganisms to break down organic materials in the absense of oxygen to produce methane gas which can be burned for energy

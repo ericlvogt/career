@@ -2,7 +2,7 @@ Specifically consumer and industrial materials that are no longer in use and are
 
 Waste is either:
 - [[Land Fill]]
-- [[Recycling]]
+- [[Recycle]]
 - [[Reuse]]
 
 A goal for waste management is to [[Reduce]] the amount of product that ends up in landfills

@@ -1,0 +1,1 @@
+Putting a price on the amount of [[Greenhouse Gases]] released to atmosphere

@@ -1,0 +1,1 @@
+Gases which accumulate in the atmosphere and trap heat to the surface of the planet causing the climate to warm. [[Climate Change]]

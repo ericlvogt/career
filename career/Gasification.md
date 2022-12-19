@@ -1,0 +1,1 @@
+Use high temperatures and limited oxygen to convert waste into gas which can then be burned to generage electricity
