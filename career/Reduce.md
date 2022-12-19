@@ -1,0 +1,3 @@
+The idea of using and consuming less to lower your impact on the environment.
+
+To me this method implies you are able to change consumers habbits while the market is constantly driving consumerism. I think this is a real challenge given people are typically unwilling to change and especially more unwilling to give up any part of their lives. I think substitution is the best approach, create products which are less impactful and utilize marketing, labels, etc. to make them more attractive than the more harmful alternative.

@@ -1,0 +1,1 @@
+Projects hosted publically that allow for contributions from anyone with the means to access and contribute to the product.

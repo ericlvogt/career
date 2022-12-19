@@ -1,0 +1,1 @@
+The idea of taking in waste and processing it to make it a new product or feedstock to create new products.

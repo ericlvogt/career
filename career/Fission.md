@@ -1,0 +1,1 @@
+A form of [[Nuclear Energy]] which seeks to collect the energy from splitting atoms. There are some issues with this since the spent fuel from this process takes thousands of years to decay and release harmful radiation in the meantime. The active core also can become a disaster if it isn't properly cooled since if a core melts down it is difficult and dangerous to contain. 

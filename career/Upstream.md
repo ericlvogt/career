@@ -1,0 +1,1 @@
+Resource extraction. In terms of the [[Oil and Gas]] industry this includes wells and initial processing of extracted resources. Once extracted and processed the product is passed on to [[Midstream]] for transport.

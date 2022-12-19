@@ -1,0 +1,1 @@
+Resources that are naturally replenished within the human timescale. Or is on such a scale that by utilizing the energy humans are making an unnoticable change to the total amount available.
